@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pico-byte"/>
+<The Javascript is from a GODOT Game Engine build. I personally don't use Javascript/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pico-byte"/>
 
 <!--
 **pico-byte/pico-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
